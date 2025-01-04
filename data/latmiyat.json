@@ -1,0 +1,33 @@
+{
+  "munshideen": [
+    {
+      "id": "1",
+      "name": "باسم الكربلائي",
+      "imageUrl": "https://i.imgur.com/nPHkJ1s.jpg",
+      "latmiyat": [
+        {
+          "id": "1",
+          "title": "يا حسين يبن الزهراء",
+          "audioUrl": "https://archive.org/download/BasimKarbalai_YaHussain/basim_ya_hussain.mp3"
+        },
+        {
+          "id": "2",
+          "title": "سلام من الله",
+          "audioUrl": "https://archive.org/download/BasimKarbalai_Salam/basim_salam.mp3"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "نزار القطري",
+      "imageUrl": "https://i.imgur.com/K8j3vM4.jpg",
+      "latmiyat": [
+        {
+          "id": "3",
+          "title": "يا حسين",
+          "audioUrl": "https://archive.org/download/NizarQatari_YaHussain/nizar_ya_hussain.mp3"
+        }
+      ]
+    }
+  ]
+}
